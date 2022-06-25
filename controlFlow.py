@@ -31,3 +31,4 @@ if grade == "1":
     print("Ooops, you did not pass the test. Better luck nex time!")
 else:
     print("Well done! You got a grade of: " + grade)
+''' inspired by Udemy course " The perfect course for complete beginners. Friendly - No experience required. Go from scratch to coding a real app!" '''
