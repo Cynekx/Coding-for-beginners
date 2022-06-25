@@ -57,3 +57,4 @@ kolor2 = "szylkretowa"
 Nela = kot2(kolor2)
 print(Oliver)
 print(Nela)
+''' inspired by Udemy course " The perfect course for complete beginners. Friendly - No experience required. Go from scratch to coding a real app!" '''
