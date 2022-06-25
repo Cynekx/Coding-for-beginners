@@ -23,3 +23,4 @@ salesTax2 = 0.4 * orangesPrice
 orangesPrice += salesTax2
 moneyInWallet = moneyInWallet - bananasPrice - orangesPrice
 print(moneyInWallet)
+''' inspired by Udemy course " The perfect course for complete beginners. Friendly - No experience required. Go from scratch to coding a real app!" '''
