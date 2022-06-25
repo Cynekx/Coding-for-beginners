@@ -24,3 +24,4 @@ if response == "yes":
     print("great!")
 else:
     print("it says if the value is ture or false")
+''' inspired by Udemy course " The perfect course for complete beginners. Friendly - No experience required. Go from scratch to coding a real app!" '''
