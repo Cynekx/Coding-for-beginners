@@ -36,4 +36,4 @@ for x in range(5,10):
     if(x==7): break   #if it gets to 7, stops executing the code.
     print(x)
 
-    
+''' inspired by Udemy course " The perfect course for complete beginners. Friendly - No experience required. Go from scratch to coding a real app!" '''    
