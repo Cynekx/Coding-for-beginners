@@ -110,3 +110,7 @@ if answer == 'y':
     createShoppingList()
 else:
     print("Okay, that's all for now. Thank you and see you soon!")
+
+    
+
+''' inspired by Udemy course " The perfect course for complete beginners. Friendly - No experience required. Go from scratch to coding a real app!" '''
